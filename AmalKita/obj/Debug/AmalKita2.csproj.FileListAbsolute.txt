@@ -1,0 +1,13 @@
+C:\Users\windows\source\repos\AmalKita2\bin\Debug\AmalKita2.exe.config
+C:\Users\windows\source\repos\AmalKita2\bin\Debug\AmalKita2.exe
+C:\Users\windows\source\repos\AmalKita2\bin\Debug\AmalKita2.pdb
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.Properties.Resources.resources
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.csproj.GenerateResource.cache
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.exe
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.pdb
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.csprojAssemblyReference.cache
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.LoginPage.resources
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.UserPage.resources
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.Adminpage.resources
+C:\Users\windows\source\repos\AmalKita2\obj\Debug\AmalKita2.AdminLogin.resources
